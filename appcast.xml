@@ -13,5 +13,13 @@
       <pubDate>Fri, 17 Jul 2026 21:22:05 +0200</pubDate>
       <enclosure url="https://github.com/christianmueller1970-oss/Skywave-releases/releases/download/v0.2.2/Skywave-0.2.2.dmg" sparkle:edSignature="cWFdz94DpQefj9Q7cKbbB0VzgNUkCneZWsgrscEC6iHVwP3TywQHYEeldpG24E/VPCTmEp2I7SsJzicXuR2dAw==" length="3403812" type="application/octet-stream" />
     </item>
+    <item>
+      <title>Version 0.2.3</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 17 Jul 2026 21:37:51 +0200</pubDate>
+      <enclosure url="https://github.com/christianmueller1970-oss/Skywave-releases/releases/download/v0.2.3/Skywave-0.2.3.dmg" sparkle:edSignature="vKxpTrM7Y7jE5XrSAfSE3gzXp/5wtAKla1D4WF9MJMCJvyGMfEq1IXb0edO0J2UaRz2KaN5nDlSzpl4g5HsXCg==" length="3404147" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
