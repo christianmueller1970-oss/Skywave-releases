@@ -37,5 +37,13 @@
       <pubDate>Mon, 03 Aug 2026 22:44:33 +0200</pubDate>
       <enclosure url="https://github.com/christianmueller1970-oss/Skywave-releases/releases/download/v0.3.0/Skywave-0.3.0.dmg" sparkle:edSignature="VrqB8Aql9oCF9CVuiLvZwrDVmRxkzVFZOq8negW0Z4DYI8ZmlVbTPV3T9g9wUe1lFqf/YIdms9GUSq3wRDHwAw==" length="3565486" type="application/octet-stream" />
     </item>
+    <item>
+      <title>Version 0.4.0</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 07 Aug 2026 21:20:18 +0200</pubDate>
+      <enclosure url="https://github.com/christianmueller1970-oss/Skywave-releases/releases/download/v0.4.0/Skywave-0.4.0.dmg" sparkle:edSignature="Gx6RAHUnKzpUKG2267jaujP51aLAWIK4N2OuRISvOeG4+CgQq2pJps6ZpnXr2xHfox1iL7WuNAhqSE8y9c4JCg==" length="3781481" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
