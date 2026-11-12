@@ -74,7 +74,7 @@
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>So., 11 Okt. 2026 17:50:15 +0200</pubDate>
+      <pubDate>Sun, 11 Oct 2026 17:50:15 +0200</pubDate>
       <enclosure url="https://github.com/christianmueller1970-oss/Skywave-releases/releases/download/v0.6.0/Skywave-0.6.0.dmg" sparkle:edSignature="3D9viaHo9F/RYUs735pDkTe7NLMbPALeiNnrB3j2V3v1RSrhMfxmflGW7sJaC2uN54pq77LSK1y3O/HC0WSfCQ==" length="4343881" type="application/octet-stream" />
     </item>
     <item>
@@ -82,7 +82,7 @@
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Do., 12 Nov. 2026 17:53:44 +0100</pubDate>
+      <pubDate>Thu, 12 Nov 2026 17:53:44 +0100</pubDate>
       <enclosure url="https://github.com/christianmueller1970-oss/Skywave-releases/releases/download/v0.7.0/Skywave-0.7.0.dmg" sparkle:edSignature="z2P9mlcWGZpyegg4JVx67ed+npfvgDAl4BwZGkH1tjY5wmc3mDLXum6f7ZPgIypkeUT0d22XPLIGAT02Ow/mDg==" length="7741090" type="application/octet-stream" />
     </item>
   </channel>
